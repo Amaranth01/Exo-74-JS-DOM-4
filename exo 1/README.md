@@ -1,7 +1,7 @@
 Consignes Exercice 1 :
 
 I -
-Dans ce défi, vous allez faire en sorte que l'utilisateur (vous !) puisse caresser le chat pour le voir miauler.
+Dans ce défi, vous allez faire en sorte que l'utilisateur (vous !) puisse caresser le chat pour le voir miauler (comme la jeune mariée).
 Première étape : trouver l'élément image du chat et le stocker dans une variable.
 
 
